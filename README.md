@@ -9,7 +9,7 @@ This project is an **interactive web dashboard** that reads retail sales data fr
 - **Monthly Revenue Trend**
 - **Top 5 Products by Revenue**
 
-It is designed for **beginners in Data Analytics** who want to learn how to connect data storage, processing, and visualization in one app.
+
 
 ---
 
@@ -20,11 +20,7 @@ This dashboard helps in:
 - Identifying **best-selling products**
 - Gaining quick insights for **decision-making**
 
-Also, it’s a good **learning project** to practice:
-- Python data handling with **Pandas**
-- Storing data in a lightweight **SQLite** database
-- Creating interactive dashboards using **Streamlit**
-- Visualizing data with **Matplotlib** and **Seaborn**
+
 
 ---
 
@@ -48,5 +44,3 @@ Also, it’s a good **learning project** to practice:
 - Lightweight and runs locally
 
 ---
-
-## **🗂️ Project Structure**
